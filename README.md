@@ -1,2 +1,0 @@
-# SIMEL
-RH SIMEL
